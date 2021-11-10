@@ -1,5 +1,5 @@
 {
-    "name": "marvinoliveiras/busca-cep",
+    "name": "marvinoliveiras/buscacep",
     "description": "Pacote que busca CEP  online consumindo a API",
     "type": "library",
     "license": "MIT",
